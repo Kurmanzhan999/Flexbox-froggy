@@ -60,7 +60,7 @@ function Editor() {
           onClick={nextGame}
           className={`${classes.next} ${btnIsDisabled()}`}
         >
-          Следующий
+          Next
         </button>
       </div>
     </div>
