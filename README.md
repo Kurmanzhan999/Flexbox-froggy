@@ -6,4 +6,4 @@ Introduce the fundamentals of using CSS flexbox to position elements on a webpag
 Prerequisites
 For beginners of CSS flexbox. Familiarity with the basics of CSS is a plus but not required.
 
-![Flexbox froggy](assets/result/froggy.png)
+![Flexbox froggy](/assets/result/froggy.png)
